@@ -1,4 +1,4 @@
-import { FlatList, StyleSheet, View } from "react-native";
+import { FlatList, View } from "react-native";
 import Language from "../components/language.js";
 import jsLogo from '../assets/jsLogo.png';
 import javaLogo from '../assets/javaLogo.jpg';
